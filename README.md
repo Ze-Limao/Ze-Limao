@@ -1,7 +1,8 @@
+## José Correia
+
 <div id="header" align="center">
   <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width=1200/> </div>
 
-## José Correia
 - 💻 **Currently studying Software Engineering @ UMinho**
 
 - 📍 **From Braga, Portugal**
