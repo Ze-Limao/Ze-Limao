@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/Ze-Limao/Ze-Limao/blob/main/raccoon.gif" width=1200/> </div>
+  <img src="https://github.com/Ze-Limao/Ze-Limao/blob/main/raccoon.gif" width=1000/> </div>
 
 ## Hello, I'm José Correia
 
