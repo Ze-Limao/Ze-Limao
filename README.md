@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="http://www.reddit.com/r/gifs/comments/3cfc1c/guardians_of_the_galaxy_vol_2_teaser/" width=1200/> </div>
+  <img src="https://media0.giphy.com/media/40F4fLvOkInEk/giphy.gif?cid=ecf05e47ww8no3znyecp1rrwszhba4w25b8m0whoabbrdt8m&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=1200/> </div>
 
 ## Hello, I'm José Correia
 
