@@ -1,5 +1,4 @@
-![](https://github.com/Ze-Limao/raccoon.gif)
-
+![](https://github.com/Ze-Limao/Ze-Limao/raccoon.gif)
 ## Hello, I'm José Correia
 
 - 💻 **Currently studying Software Engineering @ UMinho**
