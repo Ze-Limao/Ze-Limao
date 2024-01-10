@@ -1,5 +1,4 @@
-<div id="header" align="center">
-  <img src="![](https://github.com/Ze-Limao/raccoon.gif)" width=1200/> </div>
+![](https://github.com/Ze-Limao/raccoon.gif)
 
 ## Hello, I'm José Correia
 
