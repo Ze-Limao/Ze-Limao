@@ -1,7 +1,7 @@
-## José Correia
-
 <div id="header" align="center">
-  <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif" width=1200/> </div>
+  <img src="http://www.reddit.com/r/gifs/comments/3cfc1c/guardians_of_the_galaxy_vol_2_teaser/" width=1200/> </div>
+
+## Hello, I'm José Correia
 
 - 💻 **Currently studying Software Engineering @ UMinho**
 
