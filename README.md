@@ -3,7 +3,7 @@
 
 ## Hello, I'm José Correia
 
-- 💻 **Currently studying Software Engineering @ UMinho**
+- 💻 **First-year master's student @ UMinho**
 
 - 📍 **From Braga, Portugal**
 
