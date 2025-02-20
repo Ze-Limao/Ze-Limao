@@ -16,4 +16,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecorreia24)
 
 ### Languages and Tools: 
-[![My Skills](https://skillicons.dev/icons?i=vue,tailwind,js,ts,html,css,haskell,c,cs,cpp,dotnet,java,py,kubernetes,docker,mysql,postman,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,haskell,c,cs,cpp,java,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind,nextjs,kubernetes,docker,dotnet,mysql,postman,linux,windows)](https://skillicons.dev)
