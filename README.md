@@ -17,4 +17,4 @@
 
 ### Languages and Tools: 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,haskell,c,cs,cpp,java,py,)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vue,react,tailwind,nextjs,kubernetes,docker,dotnet,mysql,mongo,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,nextjs,react,tailwind,kubernetes,docker,dotnet,mysql,mongo,linux,windows)](https://skillicons.dev)
